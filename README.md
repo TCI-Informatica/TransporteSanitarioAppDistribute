@@ -13,7 +13,7 @@ Aponte a câmera do seu dispositivo para o QR Code abaixo:
 
 <img src="./qr-code.png" alt="QR Code" width="300">
 
-[Ou clique aqui](https://github.com/TCI-Informatica/RedencaoNaRuaAppDistribute/releases/download/v1.0.0/app-v100.apk)
+[Ou clique aqui](https://github.com/TCI-Informatica/TransporteSanitarioAppDistribute/releases/download/v1.0.0/app-v100.apk)
 
 ---
 
